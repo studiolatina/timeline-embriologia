@@ -1,0 +1,192 @@
+[
+  {
+    "id": "GI-01",
+    "nome": "intestino-primitivo",
+    "desc": "Formação do Intestino Primitivo (Semana 4, Dia 24)",
+    "arquivos": [
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-01_intestino-primitivo/GI-01_moore_p194_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-01_intestino-primitivo/GI-01_moore_p191_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-01_intestino-primitivo/GI-01_moore_p192_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-01_intestino-primitivo/GI-01_langman_p342_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-01_intestino-primitivo/GI-01_langman_p342_img2.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-01_intestino-primitivo/GI-01_langman_p345_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-01_intestino-primitivo/GI-01_langman_p356_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-01_intestino-primitivo/GI-01_langman_p356_img2.jpeg"
+    ]
+  },
+  {
+    "id": "GI-02",
+    "nome": "esofago-estomago-primordios",
+    "desc": "Primórdios do Estômago e Esôfago (Semana 4, Dia 26)",
+    "arquivos": [
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-02_esofago-estomago-primordios/GI-02_moore_p193_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-02_esofago-estomago-primordios/GI-02_moore_p194_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-02_esofago-estomago-primordios/GI-02_moore_p271_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-02_esofago-estomago-primordios/GI-02_langman_p348_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-02_esofago-estomago-primordios/GI-02_langman_p168_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-02_esofago-estomago-primordios/GI-02_langman_p344_img1.jpeg"
+    ]
+  },
+  {
+    "id": "GI-03",
+    "nome": "diverticulo-hepatico",
+    "desc": "Divertículo Hepático — Fígado e Via Biliar (Semana 4, Dia 26)",
+    "arquivos": [
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-03_diverticulo-hepatico/GI-03_moore_p279_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-03_diverticulo-hepatico/GI-03_moore_p278_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-03_diverticulo-hepatico/GI-03_moore_p196_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-03_diverticulo-hepatico/GI-03_langman_p358_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-03_diverticulo-hepatico/GI-03_langman_p358_img2.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-03_diverticulo-hepatico/GI-03_langman_p359_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-03_diverticulo-hepatico/GI-03_langman_p352_img1.jpeg"
+    ]
+  },
+  {
+    "id": "GI-04",
+    "nome": "broto-pancreatico",
+    "desc": "Brotos Pancreáticos — Ventral e Dorsal (Semana 5)",
+    "arquivos": [
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-04_broto-pancreatico/GI-04_moore_p281_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-04_broto-pancreatico/GI-04_moore_p283_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-04_broto-pancreatico/GI-04_moore_p271_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-04_broto-pancreatico/GI-04_langman_p360_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-04_broto-pancreatico/GI-04_langman_p358_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-04_broto-pancreatico/GI-04_langman_p358_img2.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-04_broto-pancreatico/GI-04_langman_p362_img1.jpeg"
+    ]
+  },
+  {
+    "id": "GI-05",
+    "nome": "septo-traqueoesofagico",
+    "desc": "Septação Traqueoesofágica (Semanas 4–5)",
+    "arquivos": [
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-05_septo-traqueoesofagico/GI-05_moore_p271_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-05_septo-traqueoesofagico/GI-05_moore_p299_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-05_septo-traqueoesofagico/GI-05_moore_p295_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-05_septo-traqueoesofagico/GI-05_moore_p295_img2.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-05_septo-traqueoesofagico/GI-05_langman_p347_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-05_septo-traqueoesofagico/GI-05_langman_p347_img2.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-05_septo-traqueoesofagico/GI-05_langman_p348_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-05_septo-traqueoesofagico/GI-05_langman_p373_img1.jpeg"
+    ]
+  },
+  {
+    "id": "GI-06",
+    "nome": "rotacao-estomago-bolsa-omental",
+    "desc": "Rotação do Estômago e Bolsa Omental (Semana 5)",
+    "arquivos": [
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-06_rotacao-estomago-bolsa-omental/GI-06_moore_p273_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-06_rotacao-estomago-bolsa-omental/GI-06_moore_p274_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-06_rotacao-estomago-bolsa-omental/GI-06_moore_p275_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-06_rotacao-estomago-bolsa-omental/GI-06_langman_p351_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-06_rotacao-estomago-bolsa-omental/GI-06_langman_p351_img2.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-06_rotacao-estomago-bolsa-omental/GI-06_langman_p350_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-06_rotacao-estomago-bolsa-omental/GI-06_langman_p352_img1.jpeg"
+    ]
+  },
+  {
+    "id": "GI-07",
+    "nome": "rotacao-duodeno-fusao-pancreatica",
+    "desc": "Rotação do Duodeno e Fusão Pancreática (Semanas 5–7)",
+    "arquivos": [
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-07_rotacao-duodeno-fusao-pancreatica/GI-07_moore_p278_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-07_rotacao-duodeno-fusao-pancreatica/GI-07_moore_p283_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-07_rotacao-duodeno-fusao-pancreatica/GI-07_moore_p193_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-07_rotacao-duodeno-fusao-pancreatica/GI-07_langman_p360_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-07_rotacao-duodeno-fusao-pancreatica/GI-07_langman_p362_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-07_rotacao-duodeno-fusao-pancreatica/GI-07_langman_p353_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-07_rotacao-duodeno-fusao-pancreatica/GI-07_langman_p353_img2.jpeg"
+    ]
+  },
+  {
+    "id": "GI-08",
+    "nome": "herniacao-umbilical-fisiologica",
+    "desc": "Herniação Umbilical Fisiológica (Semana 6)",
+    "arquivos": [
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-08_herniacao-umbilical-fisiologica/GI-08_moore_p291_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-08_herniacao-umbilical-fisiologica/GI-08_moore_p292_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-08_herniacao-umbilical-fisiologica/GI-08_moore_p289_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-08_herniacao-umbilical-fisiologica/GI-08_langman_p368_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-08_herniacao-umbilical-fisiologica/GI-08_langman_p163_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-08_herniacao-umbilical-fisiologica/GI-08_langman_p164_img1.jpeg"
+    ]
+  },
+  {
+    "id": "GI-09",
+    "nome": "divisao-cloaca",
+    "desc": "Divisão da Cloaca — Septo Uroretal (Semana 7)",
+    "arquivos": [
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-09_divisao-cloaca/GI-09_moore_p297_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-09_divisao-cloaca/GI-09_moore_p298_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-09_divisao-cloaca/GI-09_moore_p299_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-09_divisao-cloaca/GI-09_langman_p372_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-09_divisao-cloaca/GI-09_langman_p373_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-09_divisao-cloaca/GI-09_langman_p371_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-09_divisao-cloaca/GI-09_langman_p371_img2.jpeg"
+    ]
+  },
+  {
+    "id": "GI-10",
+    "nome": "recanalizacao-esofago-duodeno",
+    "desc": "Recanalização do Esôfago e Duodeno (Semana 8)",
+    "arquivos": [
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-10_recanalizacao-esofago-duodeno/GI-10_moore_p277_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-10_recanalizacao-esofago-duodeno/GI-10_moore_p278_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-10_recanalizacao-esofago-duodeno/GI-10_moore_p271_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-10_recanalizacao-esofago-duodeno/GI-10_langman_p371_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-10_recanalizacao-esofago-duodeno/GI-10_langman_p371_img2.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-10_recanalizacao-esofago-duodeno/GI-10_langman_p348_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-10_recanalizacao-esofago-duodeno/GI-10_langman_p360_img1.jpeg"
+    ]
+  },
+  {
+    "id": "GI-11",
+    "nome": "canal-anal-linha-pectinea",
+    "desc": "Canal Anal e Linha Pectínea (Semanas 7–8)",
+    "arquivos": [
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-11_canal-anal-linha-pectinea/GI-11_moore_p298_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-11_canal-anal-linha-pectinea/GI-11_moore_p299_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-11_canal-anal-linha-pectinea/GI-11_moore_p297_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-11_canal-anal-linha-pectinea/GI-11_langman_p372_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-11_canal-anal-linha-pectinea/GI-11_langman_p371_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-11_canal-anal-linha-pectinea/GI-11_langman_p371_img2.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-11_canal-anal-linha-pectinea/GI-11_langman_p164_img1.jpeg"
+    ]
+  },
+  {
+    "id": "GI-12",
+    "nome": "retorno-alcas-270-graus",
+    "desc": "Retorno das Alças Intestinais — 270° (Semana 10)",
+    "arquivos": [
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-12_retorno-alcas-270-graus/GI-12_moore_p292_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-12_retorno-alcas-270-graus/GI-12_moore_p293_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-12_retorno-alcas-270-graus/GI-12_moore_p295_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-12_retorno-alcas-270-graus/GI-12_moore_p295_img2.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-12_retorno-alcas-270-graus/GI-12_langman_p369_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-12_retorno-alcas-270-graus/GI-12_langman_p364_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-12_retorno-alcas-270-graus/GI-12_langman_p163_img1.jpeg"
+    ]
+  },
+  {
+    "id": "GI-13",
+    "nome": "funcoes-hepaticas-fetais",
+    "desc": "Funções Hepáticas Fetais — Eritropoiese + Bile (Semanas 10–13)",
+    "arquivos": [
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-13_funcoes-hepaticas-fetais/GI-13_moore_p279_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-13_funcoes-hepaticas-fetais/GI-13_moore_p277_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-13_funcoes-hepaticas-fetais/GI-13_moore_p280_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-13_funcoes-hepaticas-fetais/GI-13_langman_texto_p375_pagina.png"
+    ]
+  },
+  {
+    "id": "GI-14",
+    "nome": "maturacao-funcional-fetal",
+    "desc": "Maturação Funcional Fetal do Sistema Digestório (Semanas 16–38)",
+    "arquivos": [
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-14_maturacao-funcional-fetal/GI-14_moore_p280_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-14_maturacao-funcional-fetal/GI-14_moore_p301_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-14_maturacao-funcional-fetal/GI-14_moore_p303_img1.jpeg",
+      "/Users/sprioli/Documents/GitHub/embriologia-assets/sistema-digestorio/GI-14_maturacao-funcional-fetal/GI-14_langman_texto_p375_pagina.png"
+    ]
+  }
+]
