@@ -3,6 +3,13 @@ import { EventDef, EventImage } from "../types";
 
 /* ─── helpers ───────────────────────────────────────────────────────── */
 
+/** Prefixa caminhos de assets públicos com o base do Vite
+ *  (ex.: "/eventos/x.jpeg" → "/timeline-embriologia/eventos/x.jpeg"),
+ *  para que as imagens carreguem corretamente no GitHub Pages. */
+function asset(src: string): string {
+  return import.meta.env.BASE_URL + src.replace(/^\//, "");
+}
+
 function parseBold(text: string): React.ReactNode {
   return text.split(/\*\*(.*?)\*\*/g).map((part, i) =>
     i % 2 === 1
@@ -250,7 +257,7 @@ export function EventDetailModal({ event, onClose, onAnswered, preAnswered }: Pr
           }}
         >
           <img
-            src={lightbox.src}
+            src={asset(lightbox.src)}
             alt={lightbox.caption ?? ""}
             style={{
               maxWidth: "94vw", maxHeight: "84vh",
@@ -305,7 +312,7 @@ function ImageCarousel({
           }}
         >
           <img
-            src={cur.src}
+            src={asset(cur.src)}
             alt={cur.caption ?? ""}
             style={{
               display: "block", width: "100%", maxHeight: 300,
